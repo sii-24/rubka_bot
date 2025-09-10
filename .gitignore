@@ -1,5 +1,15 @@
+/.DS_Store
+venv/
+.idea
+.vscode
+config.py
+test.py
+rubka_bot.db
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*/__pycache__/
 *.py[codz]
 *$py.class
 
